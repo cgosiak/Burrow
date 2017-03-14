@@ -12,7 +12,7 @@ package main
 
 import (
 	log "github.com/cihub/seelog"
-	"github.com/linkedin/cgosiak/notifier"
+	"github.com/cgosiak/Burrow/notifier"
 	"github.com/linkedin/Burrow/protocol"
 	"math/rand"
 	"net"
